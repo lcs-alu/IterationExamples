@@ -25,7 +25,7 @@ import PlaygroundSupport
 
 //: ## Add your code below
 
-// Create canvas
+// Create a canvas
 let canvas = Canvas(width: 300, height: 300)
 
 // right down corner
